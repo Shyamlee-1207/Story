@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-   <p style="color: red;">Hey beautiful!
+   <p style="color: red;">Hey Handsome!
    I just love the way you are, so stop overthinking.
    </p>
  </body>
